@@ -1,0 +1,2 @@
+This is test string!
+And this is new test!
